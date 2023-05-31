@@ -1,0 +1,49 @@
+body {
+  background: rgb(181, 169, 110);
+}
+
+h1 {
+  text-align: center;
+  padding-bottom: 30px;
+  background: green;
+  padding-top: 25px;
+  border: 2px solid black;
+}
+
+.columns {
+  column-count: 3;
+  column-gap: 20px;
+  column-rule-style: solid;
+  column-rule-width: 2px;
+  column-rule-color: green;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+}
+
+#bashful {
+  padding-left: 20px;
+  padding-right: 20px;
+  box-sizing: border-box;
+  display: inline-block;
+  margin-left: 20px;
+}
+
+#img-1 {
+  float: right;
+  width: 30%;
+  border: 2px solid green;
+}
+
+#img-2 {
+  float: left;
+  border: 2px solid green;
+}
+
+#img-3 {
+  width: 30%;
+  border: 2px solid green;
+  float: right;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
