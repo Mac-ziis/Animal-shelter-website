@@ -56,4 +56,31 @@ h1 {
   margin: auto;
   width: 15%;
   padding-bottom: 40px;
+  background:rgb(109, 97, 33);
+  width: 60%;
+  padding-left: 90px;
+  border: 2px solid green;
+  font-size: 20px;
+}
+
+#form h2 {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 30px;
+}
+
+#submit {
+  text-align: center;
+  margin: auto;
+  padding-top: 20px;
+}
+
+#submit input {
+  background: rgb(128, 205, 73);
+  color: white;
+  border-style: inset;
+}
+
+@media () {
+
 }
